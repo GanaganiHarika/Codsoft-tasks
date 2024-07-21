@@ -9,9 +9,9 @@ The purpose of this repository is to showcase the diverse range of skills develo
 
 ## Inspiration
 
-The coding approaches and solutions presented here have been inspired by various sources in the software development community. We acknowledge and thank these sources for their valuable contributions to our learning and project development.
+The coding approaches and solutions presented here have been inspired by various sources in the software development community. I acknowledge and thank these sources for their valuable contributions to my learning and project development.
 
 ## Contributing
 
-Contributions are not accepted in this repository as it is used solely for documenting internship tasks completed by CodSoft interns.
+Contributions are not accepted in this repository as it is used solely for documenting internship tasks completed for CodSoft internship.
 
